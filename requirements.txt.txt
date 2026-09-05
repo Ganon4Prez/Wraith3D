@@ -1,1 +1,0 @@
-# This is here for Python requirements for the cross-plat project
